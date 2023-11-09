@@ -1,5 +1,5 @@
 
-// Nome do aluno: Gabriela Spanemberg Bado
+// Nome do aluno: Gabriela Bado
 
 public class Principal
 {
