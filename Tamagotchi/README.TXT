@@ -5,8 +5,8 @@ ele/ela precisa saber. Os comentários devem incluir, pelo menos:
 ------------------------------------------------------------------------
 
 TÍTULO DO PROJETO: Tamagotchi
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES: Gabriela Spanemberg Bado
-INSTRUÇÕES PARA O USUÁRIO:
+OBJETIVO DO PROJETO: Utilizar comandos iniciais de Java para um programa de Tamagotchi 
+VERSÃO ou DATA: 2023/01
+COMO INICIAR O PROJETO: 
+AUTORES: Gabriela Bado
+INSTRUÇÕES PARA O USUÁRIO: 
